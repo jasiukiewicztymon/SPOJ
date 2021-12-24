@@ -1,0 +1,2 @@
+# SPOJ
+My SPOJ solutions
